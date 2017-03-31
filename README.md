@@ -466,3 +466,4 @@ Signed,
 - JiaZuo Long ([@longjiazuo](https://github.com/longjiazuo)), Software Development Engineer, China BeiJing
 - Paul M Edwards ([@PaulMEdwards](https://github.com/PaulMEdwards)), SDET/SQA Test Automation Specialist, California, USA
 - Anantha Natarajan S ([@sananth12](https://github.com/sananth12)), Creator of ([ImageScraper](https://github.com/sananth12/ImageScraper))
+- Keval Lakhani ([@kevallakhani95](https://github.com/kevallakhani95)), Developer Enthusiast
